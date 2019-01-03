@@ -1,5 +1,5 @@
 
-# merge two images into one using Pygame
+# merge two images into one using Pygame Liblary
 
 from pygame import image, Rect
 
